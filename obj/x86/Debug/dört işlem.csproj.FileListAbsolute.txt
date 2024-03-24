@@ -1,0 +1,7 @@
+c:\users\acer-v3\documents\visual studio 2010\Projects\dört işlem\dört işlem\obj\x86\Debug\dört_işlem.Form1.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\dört işlem\dört işlem\obj\x86\Debug\dört_işlem.Properties.Resources.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\dört işlem\dört işlem\obj\x86\Debug\dört işlem.csproj.GenerateResource.Cache
+c:\users\acer-v3\documents\visual studio 2010\Projects\dört işlem\dört işlem\bin\Debug\dört işlem.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\dört işlem\dört işlem\bin\Debug\dört işlem.pdb
+c:\users\acer-v3\documents\visual studio 2010\Projects\dört işlem\dört işlem\obj\x86\Debug\dört işlem.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\dört işlem\dört işlem\obj\x86\Debug\dört işlem.pdb
